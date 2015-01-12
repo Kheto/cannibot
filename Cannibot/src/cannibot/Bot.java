@@ -70,7 +70,6 @@ public class Bot {
 //			return false;
 //		}
 //		
-		
 		if(!lArm.isWorking() && !rArm.isWorking())
 		{
 			functioning = false;
